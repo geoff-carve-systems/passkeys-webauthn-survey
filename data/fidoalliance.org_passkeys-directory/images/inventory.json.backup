@@ -1,0 +1,1059 @@
+[
+  {
+    "image": "1640774984-payfitlogo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": "PayFit",
+    "frontpage_url": "https://payfit.com/"
+  },
+  {
+    "image": "1Password_primary-logo_light-backgrounds_intrepid-blue-1.png",
+    "learn_more_url": "https://1password.com/product/passkeys?utm_source=google&utm_medium=cpc&utm_campaign=19853587186&utm_content=651757510707&utm_term=1password%20passkeys&gclid=CjwKCAiApaarBhB7EiwAYiMwqsbovyf51n334IDG27Ldaw0I89Q1aU-b7YD26k9rqFDZc0hCPNZ0cxoCmuMQAvD_BwE&gclsrc=aw.ds",
+    "implementation_type": "consumer",
+    "company": "1Password",
+    "frontpage_url": "https://1password.com/"
+  },
+  {
+    "image": "2560px-Login.gov_logo.svg-1024x143.png",
+    "learn_more_url": "https://fidoalliance.org/u-s-general-services-administrations-rollout-of-fido2-on-login-gov/",
+    "implementation_type": "consumer",
+    "company": "Login.gov",
+    "frontpage_url": "https://login.gov/"
+  },
+  {
+    "image": "2560px-Logo_CZ.NIC_.svg-1024x240.png",
+    "learn_more_url": "https://fidoalliance.org/how-cz-nic-uses-fido-authentication/",
+    "implementation_type": "consumer",
+    "company": "cz.nic",
+    "frontpage_url": "https://www.nic.cz/"
+  },
+  {
+    "image": "2560px-TikTok_logo.svg-1024x299.png",
+    "learn_more_url": "https://support.tiktok.com/en/log-in-troubleshoot/log-in/log-in-with-a-passkey#4",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "407288.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Adobe_Corporate_logo.svg-1024x266.png",
+    "learn_more_url": "https://helpx.adobe.com/manage-account/using/secure-sign-in-with-passkey.html#set-up",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Air_New_Zealand.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Binance-Coin.svg",
+    "learn_more_url": "https://www.binance.com/en/support/faq/how-to-create-a-passkey-for-my-binance-account-2aec8fe0437242f2a5fbef9cdb71d4c2",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Bitwarden-Inc.-Logo.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "CVS_Caremark_logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Cloudflare-logo-1536x640-1-1024x427.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Devolutions-Inc-Logo-1024x362.png",
+    "learn_more_url": "https://docs.devolutions.net/workspace/kb/workspace-browser-extension/passkey/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Ebay-showcase.jpg",
+    "learn_more_url": "https://fidoalliance.org/ebays-journey-to-passwordless-with-fido/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Intuit_QuickBooks_logo.svg-1024x198.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Intuit_logo_2022.svg",
+    "learn_more_url": "https://fidoalliance.org/case-study-intuits-roi-from-passwordless-customer-authentication/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "KIT-logo.png",
+    "learn_more_url": "https://www.scc.kit.edu/dienste/18189.php",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Line-Logo-1024x576.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Logo-BBVA-1024x576-1.jpeg",
+    "learn_more_url": "https://www.bbva.com/en/bbva-joins-forces-with-nok-nok-labs-to-boost-the-use-of-biometric-authentication-on-its-mobile-banking-services/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Logo-Linkedin-3308838394-1024x640.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Logo-Of-BMW-2556400029-1024x1024.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Logo_menu.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Lowes-Logo-1965-present-3738139893-1024x576.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Migros.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Minshengbank.svg-1024x193.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Mitsubishi_UFJ_Financial_Group.svg-1024x242.png",
+    "learn_more_url": "https://thepaypers.com/digital-identity-security-online-fraud/mufg-bank-deploys-nok-nok-labs-biometric-authentication-suite/777639-26",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Mixi_logo.svg.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Moneyforward_Main-e1731671783543.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "NHS-logo.svg",
+    "learn_more_url": "https://settings.login.nhs.uk/login-details#passkeys",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "NIKKEI-LOGO_202004_rgb_color_large-1024x219.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "NVIDIA_logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "OneSpan-logo.png",
+    "learn_more_url": "https://www.onespan.com/topics/onespan-sign-passkeys-for-signers-faq",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "PNC-Bank-logo-1024x614.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "PayPal_Board.jpg",
+    "learn_more_url": "https://www.paypal.com/us/cshelp/article/what-are-paypal-passkeys-help997",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "PlayStation-Logo-FINAL-e1706710732881.jpg",
+    "learn_more_url": "https://www.playstation.com/en-us/passkey/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Qapital_2020.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Robinhood_company_logo.svg-1024x201.png",
+    "learn_more_url": "https://robinhood.com/us/en/support/articles/passkeys/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "SE107329_logo_orig-1024x460.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "SK_Telecom_Logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "SSNB_en_logo_1029_fin_rgb_r1_c1.png",
+    "learn_more_url": "https://fidoalliance.org/deploying-fido-in-japan-an-interview-with-sbi-sumishin-net-bank/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Samsung_wordmark.svg-1024x157.png",
+    "learn_more_url": "https://www.samsung.com/sg/support/apps-services/how-to-create-and-use-a-passkey/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Screen-Shot-2021-09-29-at-7.57.39-PM.png",
+    "learn_more_url": "https://fidoalliance.org/surf-uses-fido2-to-protect-users-in-the-netherlands/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Screen-Shot-2023-06-12-at-10.43.46-AM.png",
+    "learn_more_url": "https://www.google.com/url?q=https://www.bestbuy.com/identity/accountSettings/page/passkeyDetails&sa=D&source=editors&ust=1703262870461521&usg=AOvVaw0PMohiMqne3f7zl58jwBZJ",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Screen-Shot-2024-06-07-at-8.28.52-AM.png",
+    "learn_more_url": "https://docs.cyberark.com/identity/Latest/en/Content/UserPortal/user-setup-passkey.htm?tocpath=End%20User%7CSet%20up%20authentication%7C_____6",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Screen-Shot-2024-06-07-at-8.33.18-AM.png",
+    "learn_more_url": "https://proton.me/support/pass-use-passkeys",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Screen-Shot-2024-06-07-at-8.36.47-AM.png",
+    "learn_more_url": "https://helpcenter.affirm.com/s/article/Set-up-a-Passkey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Screen-Shot-2024-06-07-at-8.41.48-AM.png",
+    "learn_more_url": "https://milogin.michigan.gov/uisecure/selfservice/anonymous/passwordlessUserGuide",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Screenshot-2025-01-31-at-4.44.28 PM.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Shinhan_Bank_Logo_ENG.svg-1024x172.png",
+    "learn_more_url": "https://fidoalliance.org/case-study-koreas-shinhan-bank-deploys-fido-authentication/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "ShopPay-Color.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Shopify-Logo-1024x640.png",
+    "learn_more_url": "https://help.shopify.com/en/manual/your-account/logging-in/passkeys#create-a-passkey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Stripe_company-Logo.wine_.svg",
+    "learn_more_url": "https://dashboard.stripe.com/login",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Sunhatyellowondeepblue_1200x627-2633262170-1024x536.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "SwissPass-Logo-Teaser-2524778034-e1758646790344-1024x109.png",
+    "learn_more_url": "https://www.swisspass.ch/faq#security",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "T-Mobile_New_Logo_Primary_RGB_M-on-W-1024x458.jpeg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "TIAA_logo_header_1000_1x.svg",
+    "learn_more_url": "https://www.tiaa.org/public/support/security-center",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Telstra_Primary-logo_C_RGB1-3211961240-895x1024.png",
+    "learn_more_url": "https://www.telstra.com.au/support/account-payment/set-up-and-manage-a-passkey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "TheHomeDepot.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Tokyu-Logo-horizn.png",
+    "learn_more_url": "https://web.dev/case-studies/tokyu-passkeys?hl=en",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "TrimbleR-Horiz-RGB-Blue-1024x231.png",
+    "learn_more_url": "https://help.trimble.com/en/trimble-account-services/trimble-account-services/sign-in-and-profile/manage-my-trimble-id-profile/trimble-id-passkeys-faq",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "TurboTax-logo-1024x576.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Twitter-X-2-1024x749.png",
+    "learn_more_url": "https://www.google.com/url?q=https://twitter.com/settings/account/login_verification&sa=D&source=editors&ust=1703262870468660&usg=AOvVaw2Sw6CAdo1uc35yRIvhGTMz",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Uber-Logo.wine_.svg",
+    "learn_more_url": "https://www.uber.com/blog/use-passkeys-wherever-you-sign-in-to-uber/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Ubie-875590605-1024x538.png",
+    "learn_more_url": "https://account.ubie.app/setting",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Vanguard-logo-1024x576.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Virgin-Media.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "WRBY_BIG-1024x78.png",
+    "learn_more_url": "https://www.warbyparker.com/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "WhatsApp.svg.png",
+    "learn_more_url": "https://wabetainfo.com/whatsapp-beta-for-android-2-23-20-4-whats-new/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Wise-Logo.svg",
+    "learn_more_url": "https://wise.com/help/articles/4OTG2Z93XXyaurUviZRg5O/how-can-i-use-a-passkey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Yahoo_2019.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Youtube-logo-1024x640.jpg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "Zoho-logo-1024x440.jpg",
+    "learn_more_url": "https://help.zoho.com/portal/en/kb/accounts/sign-in-za/articles/passkey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "abanca-online2-4286174837.png",
+    "learn_more_url": "https://comunicacion.abanca.com/es/noticias/abanca-primer-banco-espanol-en-implantar-la-tecnologia-de-llaves-de-acceso-en-la-banca-movil-para-reforzar-la-seguridad-de-sus-clientes/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "aflac-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "amazon-logo-1.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "bankid-vector-logo.svg",
+    "learn_more_url": "https://www.google.com/url?q=https://authenticatecon.com/session/bringing-fido2-to-a-national-identity-scheme/&sa=D&source=editors&ust=1703262870469187&usg=AOvVaw16lg1rzkX4cv8f2hLPl0lh",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "bankofamerica-showcase.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "bb43ea6c-261a-4248-abc1-b8e08148f38c.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "bc-card.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "blue-ocean-law-logo-974.png",
+    "learn_more_url": "https://www.blueocean.law/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "boursorama-banque-logo-vector.png",
+    "learn_more_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=jux1643235969954&topicId=niw1651694673085.html&_LANG=enus",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "carnival-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "citi-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "coinbase.jpg",
+    "learn_more_url": "https://help.coinbase.com/en/coinbase/getting-started/getting-started-with-coinbase/passkeys",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "corbado-logo.png",
+    "learn_more_url": "https://app.corbado.com/signin#signup-init",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "credit-union-of-texas-logo-a92d70a4-1024x303.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "crm_org_daylite_logo-02.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "cvs-health-logo-1024x538.png",
+    "learn_more_url": "https://fidoalliance.org/how-cvs-health-uses-fido-to-secure-its-users/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "d7ec5afddb500a4d.png",
+    "learn_more_url": "https://rad.dad/help#accessing",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "dashlane-logo.svg",
+    "learn_more_url": "https://support.dashlane.com/hc/en-us/articles/7888558064274-Passkeys-in-Dashlane",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "dinero-logo-1024x264.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "discord-logo-blue.svg",
+    "learn_more_url": "https://discord.com/blog/how-discord-modernized-mfa-with-webauthn",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "docusign_logo_black_text_on_white_0-1024x362.png",
+    "learn_more_url": "https://support.docusign.com/s/document-item?language=en_US&bundleId=jux1643235969954&topicId=niw1651694673085.html&_LANG=enus",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "download-1.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "dropbox-logo.svg",
+    "learn_more_url": "https://help.dropbox.com/teams-admins/team-member/enable-two-step-verification#securitykey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "e45cd41428a70a2cce538f956eef6a2d8c7649d4.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "e6a2f329-da63-4dbe-ae53-59ab3e507f8b.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "enpass-420x320-20190312.png",
+    "learn_more_url": "https://www.enpass.io/blog/general/enpass-completes-passkey-integration-with-passkey-management-for-mac-windows-and-linux/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "facebook-logo.svg",
+    "learn_more_url": "https://www.facebook.com/help/securitykey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "fastmail.png",
+    "learn_more_url": "https://www.fastmail.com/blog/introducing-passkeys/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "fleeps.b6fa36ae.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "gemini-logo-1024x279.png",
+    "learn_more_url": "https://fidoalliance.org/case-study-gemini-protects-users-with-fido-authentication/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "github-showcase.png",
+    "learn_more_url": "https://docs.github.com/en/authentication/authenticating-with-a-passkey/about-passkeys",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "gitlab-logo-100.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "godaddy-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "google-logo-test-e1617208797589-edited-1024x420.jpeg",
+    "learn_more_url": "https://support.google.com/accounts/answer/13548313",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "goto-logo-black-yellow-h24px.svg",
+    "learn_more_url": "https://support.goto.com/connect/help/create-and-manage-passkeys-for-sign-in",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "hancock.ink_.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "hendrix_logo_2x-1024x333.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "horizon_black.svg",
+    "learn_more_url": "https://docs.hrzn.cool/pics/webauthn",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "imo_Logo.jpeg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "instacart-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "keeper-no-tag.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "kemba-financial-credit-union-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "lnk.bio_.svg",
+    "learn_more_url": "https://lnk.bio/linkin/log-in-with-passkeys-to-lnkbio",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "locker-password-manager.png",
+    "learn_more_url": "https://support.locker.io/en/locker-general/login-unlock/what-are-passkeys-how-to-create-passkeys-with-locker",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "logo-onelog.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "mercari-logo-1-e1760096831608-1024x205.png",
+    "learn_more_url": "https://developers.google.com/identity/passkeys/case-studies/mercari#results",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "microsoft-logo.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "mint_logo_icon_168972.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "minterio_8494_logo_1631780764_rgecv.png",
+    "learn_more_url": "https://help.minter.io/en/articles/8207212-adding-a-passkey-for-your-minter-io-account",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "nescafe-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "netfiles-logo.svg",
+    "learn_more_url": "https://www.netfiles.com/en/about-us/press/2024/08/netfiles-introduces-passkeys-data-room-logins-more-secure-and-more-convenient-than-ever",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "nfl-logo-0-3925390748-1024x1024.png",
+    "learn_more_url": "https://support.nfl.com/hc/en-us/articles/13594192451740-Using-biometric-authentication-as-an-alternative-to-a-password-i-e-Use-Touch-ID-Face-ID-etc",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "nttdocomo.png",
+    "learn_more_url": "https://fidoalliance.org/ntt-docomo-deployment-case-study-your-security-more-simple-2/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "okta-seeklogo.com_.svg",
+    "learn_more_url": "https://help.okta.com/oie/en-us/content/topics/identity-engine/authenticators/configure-webauthn.htm",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "okx-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "omygov-1024x576.png",
+    "learn_more_url": "https://my.gov.au/en/about/help/mygov-website/sign-in-to-mygov/use-passkeys",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "onlyfans-seeklogo.com_.svg",
+    "learn_more_url": "https://www.google.com/url?q=https://www.corbado.com/blog/onlyfans-passkeys&sa=D&source=editors&ust=1703262870471089&usg=AOvVaw1-0Ts6neQOxdYzBk1kikfZ",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "pluscard.png",
+    "learn_more_url": "https://fidoalliance.org/pluscard-uses-fido-as-innovative-alternative-to-app-based-payment-authentication/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "porkbun_rgb.svg",
+    "learn_more_url": "https://kb.porkbun.com/article/119-how-to-secure-your-account-with-a-physical-security-key-using-webauthn",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "prami.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "resource_logo_101domain_hres-1024x220.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "roblox-seeklogo.com_.svg",
+    "learn_more_url": "https://www.google.com/url?q=https://en.help.roblox.com/hc/en-us/articles/20669991483156-Logging-in-with-a-Passkey&sa=D&source=editors&ust=1703262870470503&usg=AOvVaw0RJIkLhvVXXfp20lWj6cfU",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "salesforce-logo-1024x716.png",
+    "learn_more_url": "https://www.google.com/url?q=https://help.salesforce.com/s/articleView?language%3Den_US%26id%3Dsf.use_built_in_authenticators_as_a_verification_method.htm&sa=D&source=editors&ust=1703262870467894&usg=AOvVaw2HA_ZGp10c_RQKTGup_SRp",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "scrooge.games_.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "shield.svg",
+    "learn_more_url": "https://webauthn.io/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "site-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "softbank-300x200-1.jpg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "standard-bank-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "synology-logo.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "tailscale.svg",
+    "learn_more_url": "https://tailscale.com/kb/1269/passkeys/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "target.png",
+    "learn_more_url": "https://fidoalliance.org/target-uses-fido-authentication-to-secure-the-workforce/",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "trp_logo_fullcolorpositive_rgb-492795867-1024x203.png",
+    "learn_more_url": "https://www.troweprice.com/personal-investing/campaign/passkey.html",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "united-southeast.svg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "verizon-300x200-1.jpg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "visma.svg",
+    "learn_more_url": "https://community.visma.com/t5/Brukertips-i-Visma-net-ERP/Hvordan-kan-du-aktivere-totrinnskontroll-med-FIDO2/ta-p/293830",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "voura.com_.png",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "walmart-logo-293930271-1024x768.jpg",
+    "learn_more_url": null,
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "woh-horizontal_ol.svg",
+    "learn_more_url": "https://www.hyatt.com/en-US/member/passkey/what-is-passkey",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  },
+  {
+    "image": "yahoo-japan-300x200-1.jpg",
+    "learn_more_url": "https://web.dev/case-studies/yahoo-japan-passkeys",
+    "implementation_type": "consumer",
+    "company": null,
+    "frontpage_url": null
+  }
+]

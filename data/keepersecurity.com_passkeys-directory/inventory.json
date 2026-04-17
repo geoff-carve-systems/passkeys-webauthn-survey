@@ -1,0 +1,2317 @@
+[
+  {
+    "image": "7fe996b2-43e4-4f54-a6aa-a3a42c584d6d-150x150.webp",
+    "company": "Corbado",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://corbado.com/"
+  },
+  {
+    "image": "adobe.com_.png",
+    "company": "Adobe",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.adobe.com/"
+  },
+  {
+    "image": "adp-1.png",
+    "company": "ADP",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.adp.com/"
+  },
+  {
+    "image": "afas.png",
+    "company": "AFAS",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.afasonline.nl/"
+  },
+  {
+    "image": "affirm.png",
+    "company": "Affirm",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.affirm.com/"
+  },
+  {
+    "image": "ah.png",
+    "company": "Albert Heijn",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://ah.nl/"
+  },
+  {
+    "image": "airnewzealand.png",
+    "company": "Air New Zealand",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.airnewzealand.co.nz/"
+  },
+  {
+    "image": "amazon.com_-e1697567117605.png",
+    "company": "Amazon",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.amazon.com/"
+  },
+  {
+    "image": "anki.jpeg",
+    "company": "Anki Forums",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://forums.ankiweb.net/"
+  },
+  {
+    "image": "apple.png",
+    "company": "Apple",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.apple.com/"
+  },
+  {
+    "image": "arbeitsagentur.png",
+    "company": "Arbeitsagentur",
+    "category": "Government",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.arbeitsagentur.de/"
+  },
+  {
+    "image": "arca.png",
+    "company": "Arcalive",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://arca.live/"
+  },
+  {
+    "image": "armstrong-bank.png",
+    "company": "Armstrong Bank",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.armstrong.bank/"
+  },
+  {
+    "image": "arpari.png",
+    "company": "Arpari",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://arpari.com/"
+  },
+  {
+    "image": "atlassian-150x150.png",
+    "company": "Atlassian",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.atlassian.com/"
+  },
+  {
+    "image": "au.png",
+    "company": "au",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.au.com/"
+  },
+  {
+    "image": "authsignal-logo.png",
+    "company": "Authsignal",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.authsignal.com/"
+  },
+  {
+    "image": "bagou.png",
+    "company": "Bagou450",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.bagou450.com/"
+  },
+  {
+    "image": "bankatfirst.png",
+    "company": "First Financial Bank",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.bankatfirst.com/"
+  },
+  {
+    "image": "bestbuy.com_-150x150.png",
+    "company": "Best Buy",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.bestbuy.com/"
+  },
+  {
+    "image": "Beyond-Identity-AI-150x150.png",
+    "company": "Beyond Identity",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.beyondidentity.com/"
+  },
+  {
+    "image": "binance.com_-e1697567074399.png",
+    "company": "Binance",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.binance.com/"
+  },
+  {
+    "image": "bitwarden.png",
+    "company": "Bitwarden",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://bitwarden.com/"
+  },
+  {
+    "image": "bmw.png",
+    "company": "BMW",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.bmw.com/"
+  },
+  {
+    "image": "bolt.eu_-e1718225425733.png",
+    "company": "Bolt",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://bolt.eu/"
+  },
+  {
+    "image": "Boursorama.png",
+    "company": "Boursorama",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.boursorama.com/"
+  },
+  {
+    "image": "breadfinancial-150x150.jpg",
+    "company": "Bread Financial",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.breadfinancial.com/"
+  },
+  {
+    "image": "Bridgecrest.png",
+    "company": "Bridgecrest",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.bridgecrest.com/"
+  },
+  {
+    "image": "canva.png",
+    "company": "Canva",
+    "category": "Productivity",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.canva.com/"
+  },
+  {
+    "image": "capecodfive.png",
+    "company": "Cape Cod 5",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.capecodfive.com/"
+  },
+  {
+    "image": "CardPointers.png",
+    "company": "Card Pointers",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://cardpointers.com/"
+  },
+  {
+    "image": "carmark-large.png",
+    "company": "Caremark",
+    "category": "Health & Wellness",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.caremark.com/"
+  },
+  {
+    "image": "carnival.com_-150x150.png",
+    "company": "Carnival",
+    "category": "Travel & Leisure",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://www.carnival.com/"
+  },
+  {
+    "image": "cashapp.png",
+    "company": "Cash App",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://cash.app/"
+  },
+  {
+    "image": "chekspend.png",
+    "company": "Chek",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.chekspend.com/"
+  },
+  {
+    "image": "cloudflare-logo.png",
+    "company": "Cloudflare",
+    "category": "Information Technology",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://www.cloudflare.com/"
+  },
+  {
+    "image": "cloze.png",
+    "company": "Cloze",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.cloze.com/"
+  },
+  {
+    "image": "coinbase-logo-1.jpg",
+    "company": "Coinbase",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.coinbase.com/"
+  },
+  {
+    "image": "computerbase.png",
+    "company": "ComputerBase",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.computerbase.de/"
+  },
+  {
+    "image": "coveto.png",
+    "company": "Coveto",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://coveto.de/"
+  },
+  {
+    "image": "credit-union-of-texas.png",
+    "company": "Credit Union of Texas",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.cutx.org/"
+  },
+  {
+    "image": "crowdin.png",
+    "company": "Crowdin",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://crowdin.com/"
+  },
+  {
+    "image": "crownaudit.png",
+    "company": "Crown Audit",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.crownaudit.org/"
+  },
+  {
+    "image": "customerping.png",
+    "company": "CustomerPing.AI",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://customerping.ai/"
+  },
+  {
+    "image": "cvsspecialty.png",
+    "company": "CVS",
+    "category": "Health & Wellness",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.cvs.com/"
+  },
+  {
+    "image": "datapacket.png",
+    "company": "DataPacket",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.datapacket.com/"
+  },
+  {
+    "image": "daylite.png",
+    "company": "Daylite",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.marketcircle.com/daylite/"
+  },
+  {
+    "image": "Dell-logo-150x150.png",
+    "company": "Dell",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.dell.com/"
+  },
+  {
+    "image": "delonghi.svg",
+    "company": "DeLonghi",
+    "category": "E-Commerce",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://www.delonghi.com/"
+  },
+  {
+    "image": "descope.png",
+    "company": "Descope",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.descope.com/"
+  },
+  {
+    "image": "Deutsche-Bahn-logo.jpg",
+    "company": "Deutsche Bahn",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.bahn.de/"
+  },
+  {
+    "image": "devolutions.png",
+    "company": "Devolutions",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.devolutions.net/"
+  },
+  {
+    "image": "dext-2.png",
+    "company": "Dext",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://dext.com/"
+  },
+  {
+    "image": "dinero.png",
+    "company": "Dinero",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://dinero.dk/"
+  },
+  {
+    "image": "discord-1.png",
+    "company": "Discord",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://discord.com/"
+  },
+  {
+    "image": "discourse.png",
+    "company": "Discourse",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.discourse.org/"
+  },
+  {
+    "image": "docomo.png",
+    "company": "Docomo",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.docomo.ne.jp/"
+  },
+  {
+    "image": "documenso.png",
+    "company": "Documenso",
+    "category": "Productivity",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://documenso.com/"
+  },
+  {
+    "image": "download-150x150.jpg",
+    "company": "United Southeast Federal Credit Union",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.usfcu.org/"
+  },
+  {
+    "image": "dropbox-logo.png",
+    "company": "Dropbox",
+    "category": "Information Technology",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://www.dropbox.com/"
+  },
+  {
+    "image": "duke-edu.png",
+    "company": "Duke University",
+    "category": "Education",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://duke.edu/"
+  },
+  {
+    "image": "duo.png",
+    "company": "Duo Security",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://duo.com/"
+  },
+  {
+    "image": "ebay.com_.png",
+    "company": "eBay",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.ebay.com/"
+  },
+  {
+    "image": "esl.png",
+    "company": "ESL",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.esl.com/"
+  },
+  {
+    "image": "facebook.png",
+    "company": "Facebook",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.facebook.com/"
+  },
+  {
+    "image": "fairfax-county.png",
+    "company": "Fairfax County, Virginia",
+    "category": "Government",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.fairfaxcounty.gov/"
+  },
+  {
+    "image": "fastmail.png",
+    "company": "Fastmail",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.fastmail.com/"
+  },
+  {
+    "image": "favicon-96x96-1-e1697567007969.png",
+    "company": "Intastellar Accounts",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://intastellaraccounts.com/"
+  },
+  {
+    "image": "faviconV2-1.jpg",
+    "company": "Voura",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://voura.com/"
+  },
+  {
+    "image": "faviconV2-1.png",
+    "company": "Ente",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://ente.io/"
+  },
+  {
+    "image": "faviconV2-2.png",
+    "company": "Trimble",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.trimble.com/"
+  },
+  {
+    "image": "faviconV2-3.png",
+    "company": "Webull",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.webull.com/"
+  },
+  {
+    "image": "faviconV2.jpeg",
+    "company": "WealthNavi",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.wealthnavi.com/"
+  },
+  {
+    "image": "faviconV2.png",
+    "company": "Battle.net",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.battle.net/"
+  },
+  {
+    "image": "finom.png",
+    "company": "Finom",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://finom.co/"
+  },
+  {
+    "image": "fintual.png",
+    "company": "Fintual",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://fintual.cl/"
+  },
+  {
+    "image": "fleeps.png",
+    "company": "Fleeps",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://fleeps.co/"
+  },
+  {
+    "image": "formx-ai-icon-filled-256-150x150.png",
+    "company": "FormX.ai",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://formx.ai/"
+  },
+  {
+    "image": "forwardemail.jpg",
+    "company": "Forward Email",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://forwardemail.net/"
+  },
+  {
+    "image": "freeprints.png",
+    "company": "FreePrints",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.freeprints.com/"
+  },
+  {
+    "image": "freetaxusa.png",
+    "company": "Free Tax USA",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.freetaxusa.com/"
+  },
+  {
+    "image": "fusionauth.svg",
+    "company": "FusionAuth",
+    "category": "Authentication Provider",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://fusionauth.io/"
+  },
+  {
+    "image": "gemini.png",
+    "company": "Gemini",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.gemini.com/"
+  },
+  {
+    "image": "github.blog_-150x150.png",
+    "company": "Github",
+    "category": "Information Technology",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://github.com/"
+  },
+  {
+    "image": "gitlab-logo-1.jpg",
+    "company": "Gitlab",
+    "category": "Information Technology",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://about.gitlab.com/"
+  },
+  {
+    "image": "glauca.png",
+    "company": "Glauca Digital",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://glauca.digital/"
+  },
+  {
+    "image": "google.com_-e1699555536205.png",
+    "company": "Google",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.google.com/"
+  },
+  {
+    "image": "grab.png",
+    "company": "Grab (App)",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.grab.com/"
+  },
+  {
+    "image": "haeppie.png",
+    "company": "haeppie",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://haeppie.com/"
+  },
+  {
+    "image": "hancock.ink_-e1697567265324.png",
+    "company": "Hancock",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://hancock.ink/"
+  },
+  {
+    "image": "hanko-io-logo-xl-150x150.png",
+    "company": "Hanko.io",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.hanko.io/"
+  },
+  {
+    "image": "hardwax.png",
+    "company": "Hard Wax",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://hardwax.com/"
+  },
+  {
+    "image": "hatena.png",
+    "company": "Hatena",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.hatena.ne.jp/"
+  },
+  {
+    "image": "hcaptcha.png",
+    "company": "hCaptcha",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.hcaptcha.com/"
+  },
+  {
+    "image": "heexy-150x150.png",
+    "company": "Heexy",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://heexy.org/"
+  },
+  {
+    "image": "helsana.ch_.png",
+    "company": "My Helsana (App)",
+    "category": "Health & Wellness",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.helsana.ch/"
+  },
+  {
+    "image": "high-mobility.png",
+    "company": "High Mobility",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://high-mobility.com/"
+  },
+  {
+    "image": "home-assistant.png",
+    "company": "Home Assistant",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.home-assistant.io/"
+  },
+  {
+    "image": "home-depot.png",
+    "company": "Home Depot",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.homedepot.com/"
+  },
+  {
+    "image": "horizon.png",
+    "company": "Horizon Pics",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://horizon.pics/"
+  },
+  {
+    "image": "hotelscombined.jpg",
+    "company": "HotelsCombined",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.hotelscombined.com/"
+  },
+  {
+    "image": "hubspot.png",
+    "company": "Hubspot",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.hubspot.com/"
+  },
+  {
+    "image": "hyatt.png",
+    "company": "World of Hyatt",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.hyatt.com/"
+  },
+  {
+    "image": "icloud.com_.png",
+    "company": "iCloud",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.icloud.com/"
+  },
+  {
+    "image": "images-150x150.jpeg",
+    "company": "Indeed",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.indeed.com/"
+  },
+  {
+    "image": "Instacart.png",
+    "company": "Instacart",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.instacart.com/"
+  },
+  {
+    "image": "kakaocorp.png",
+    "company": "Kakao",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.kakao.com/"
+  },
+  {
+    "image": "karlsruhekit.png",
+    "company": "Karlsruhe Institute of Technology (KIT)",
+    "category": "Education",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.kit.edu/"
+  },
+  {
+    "image": "kayak.com_-150x150.png",
+    "company": "Kayak",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.kayak.com/"
+  },
+  {
+    "image": "klemn.net_.png",
+    "company": "Klemn",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://klemn.net/"
+  },
+  {
+    "image": "kraken-logo.png",
+    "company": "Kraken Pro",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.kraken.com/"
+  },
+  {
+    "image": "laakari-chat.png",
+    "company": "L\u00e4\u00e4k\u00e4ri.chat",
+    "category": "Health & Wellness",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://laakari.chat/"
+  },
+  {
+    "image": "larksuite.png",
+    "company": "Larksuite",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.larksuite.com/"
+  },
+  {
+    "image": "level1techs-150x150.jpg",
+    "company": "Level1Techs Forum",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://forum.level1techs.com/"
+  },
+  {
+    "image": "lgtm.png",
+    "company": "LGTM.lol",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://lgtm.lol/"
+  },
+  {
+    "image": "linear.png",
+    "company": "Linear",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://linear.app/"
+  },
+  {
+    "image": "link.png",
+    "company": "Link by Stripe",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://link.com/"
+  },
+  {
+    "image": "link3.png",
+    "company": "Link3",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://link3.to/"
+  },
+  {
+    "image": "linkedin-logo.jpg",
+    "company": "Linkedin",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.linkedin.com/"
+  },
+  {
+    "image": "live.png",
+    "company": "live.com",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.live.com/"
+  },
+  {
+    "image": "lnk.bio_.png",
+    "company": "Lnk.Bio",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://lnk.bio/"
+  },
+  {
+    "image": "locker.png",
+    "company": "Locker",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://locker.io/"
+  },
+  {
+    "image": "logitech-logo.png",
+    "company": "LogitechG",
+    "category": "Information Technology",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://www.logitechg.com/"
+  },
+  {
+    "image": "logo-150x150.png",
+    "company": "Authgear",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.authgear.com/"
+  },
+  {
+    "image": "lowes.png",
+    "company": "Lowe's",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.lowes.com/"
+  },
+  {
+    "image": "lululemon.png",
+    "company": "Lululemon",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.lululemon.com/"
+  },
+  {
+    "image": "luno.png",
+    "company": "Luno",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.luno.com/"
+  },
+  {
+    "image": "luxid.lu_.png",
+    "company": "LuxID",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://luxid.lu/"
+  },
+  {
+    "image": "m.mixi_.com_-e1697566932706.png",
+    "company": "MIXI M",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://m.mixi.com/"
+  },
+  {
+    "image": "mangadex.org_-150x150.png",
+    "company": "Mangadex",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://mangadex.org/"
+  },
+  {
+    "image": "marshmallow.png",
+    "company": "Marshmallow",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://marshmallow-qa.com/"
+  },
+  {
+    "image": "mercari.png",
+    "company": "Mercari",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.mercari.com/"
+  },
+  {
+    "image": "michigan.gov_.png",
+    "company": "State of Michigan",
+    "category": "Government",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.michigan.gov/"
+  },
+  {
+    "image": "microcenter.png",
+    "company": "Micro Center",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.microcenter.com/"
+  },
+  {
+    "image": "microsoft-entra.png",
+    "company": "Microsoft Entra",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://entra.microsoft.com/"
+  },
+  {
+    "image": "microsoft.png",
+    "company": "Microsoft Entra ID",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.microsoft.com/"
+  },
+  {
+    "image": "migros.png",
+    "company": "Migros",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.migros.ch/"
+  },
+  {
+    "image": "mindbase-wallet.png",
+    "company": "Mintbase Wallet",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://wallet.mintbase.xyz/"
+  },
+  {
+    "image": "mini.png",
+    "company": "MINI",
+    "category": "Automotive",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.mini.com/"
+  },
+  {
+    "image": "miniflux.png",
+    "company": "Miniflux",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://miniflux.app/"
+  },
+  {
+    "image": "minter.io_-e1697566961922.png",
+    "company": "Minter.io",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://minter.io/"
+  },
+  {
+    "image": "moneybird.png",
+    "company": "Moneybird",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.moneybird.com/"
+  },
+  {
+    "image": "moneyforward.png",
+    "company": "Money Forward ID",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://id.moneyforward.com/"
+  },
+  {
+    "image": "my.kemba_.org_-e1697563936833.png",
+    "company": "KEMBA Financial Credit Union",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.kemba.org/"
+  },
+  {
+    "image": "mycurricula.png",
+    "company": "Curricula (Huntress)",
+    "category": "Education",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.mycurricula.com/"
+  },
+  {
+    "image": "MyGov-AU.png",
+    "company": "MyGov AU",
+    "category": "Government",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://my.gov.au/"
+  },
+  {
+    "image": "mykonami.jpg",
+    "company": "My KONAMI",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://my.konami.net/"
+  },
+  {
+    "image": "mysites.guru_.png",
+    "company": "mySites.guru",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://mysites.guru/"
+  },
+  {
+    "image": "netfiles.png",
+    "company": "netfiles",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.netfiles.com/"
+  },
+  {
+    "image": "nhs.png",
+    "company": "NHS",
+    "category": "Health & Wellness",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.nhs.uk/"
+  },
+  {
+    "image": "ninjaone-logo-1.png",
+    "company": "NinjaOne",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.ninjaone.com/"
+  },
+  {
+    "image": "Nintendo.png",
+    "company": "Nintendo",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.nintendo.com/"
+  },
+  {
+    "image": "notion.png",
+    "company": "Notion",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.notion.so/"
+  },
+  {
+    "image": "nulab.com_.png",
+    "company": "nulab",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://nulab.com/"
+  },
+  {
+    "image": "nvidia.png",
+    "company": "Nvidia",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.nvidia.com/"
+  },
+  {
+    "image": "office.microsoft.com_-e1699556018714.png",
+    "company": "Microsoft",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.microsoft.com/"
+  },
+  {
+    "image": "okta.com_-150x150.png",
+    "company": "Okta",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.okta.com/"
+  },
+  {
+    "image": "OKX.png",
+    "company": "OKX",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.okx.com/"
+  },
+  {
+    "image": "omg.png",
+    "company": "omg.lol",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://omg.lol/"
+  },
+  {
+    "image": "onedrive.com_.png",
+    "company": "OneDrive",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://onedrive.live.com/"
+  },
+  {
+    "image": "onelog.ch_-e1697566895670.png",
+    "company": "OneLog",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.onelog.ch/"
+  },
+  {
+    "image": "onlinescoutmanager.png",
+    "company": "Online Scout Manager (OSM)",
+    "category": "Productivity",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.onlinescoutmanager.co.uk/"
+  },
+  {
+    "image": "OnlyFans.png",
+    "company": "OnlyFans",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://onlyfans.com/"
+  },
+  {
+    "image": "outbrain-logo.png",
+    "company": "Outbrain",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.outbrain.com/"
+  },
+  {
+    "image": "paidy.png",
+    "company": "Paidy (Mobile App)",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://paidy.com/"
+  },
+  {
+    "image": "papermark.png",
+    "company": "Papermark",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.papermark.io/"
+  },
+  {
+    "image": "passage.png",
+    "company": "Passage",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://passage.1password.com/"
+  },
+  {
+    "image": "passkey-logo.jpg",
+    "company": "Passkey",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://passkey.com/"
+  },
+  {
+    "image": "pastery.png",
+    "company": "Pastery",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.pastery.net/"
+  },
+  {
+    "image": "PayFit.png",
+    "company": "PayFit",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://payfit.com/"
+  },
+  {
+    "image": "paypal.com_-150x150.png",
+    "company": "PayPal",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.paypal.com/"
+  },
+  {
+    "image": "pixiv.png",
+    "company": "Pixiv",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.pixiv.net/"
+  },
+  {
+    "image": "playstation-logo-1.png",
+    "company": "Sony Playstation",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.playstation.com/"
+  },
+  {
+    "image": "playstation.png",
+    "company": "PlayStation",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.playstation.com/"
+  },
+  {
+    "image": "poblano.png",
+    "company": "Poblano",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://poblano.jp/"
+  },
+  {
+    "image": "poloniex.com_.png",
+    "company": "Poloniex",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://poloniex.com/"
+  },
+  {
+    "image": "porkbun.com_-150x150.png",
+    "company": "Porkbun",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://porkbun.com/"
+  },
+  {
+    "image": "practiceprotect.png",
+    "company": "Practice Protect",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://practiceprotect.com/"
+  },
+  {
+    "image": "prismm.png",
+    "company": "Prismm",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://getprismm.com/"
+  },
+  {
+    "image": "proton-mail.png",
+    "company": "Proton",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://proton.me/"
+  },
+  {
+    "image": "qapital.png",
+    "company": "Qapital",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.qapital.com/"
+  },
+  {
+    "image": "rad.dad_-e1697566865143.png",
+    "company": "rad.dad",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://rad.dad/"
+  },
+  {
+    "image": "ring.png",
+    "company": "Ring",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://ring.com/"
+  },
+  {
+    "image": "robinhood.com_-150x150.png",
+    "company": "Robinhood",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://robinhood.com/"
+  },
+  {
+    "image": "roblox-logo.png",
+    "company": "Roblox",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.roblox.com/"
+  },
+  {
+    "image": "salad.png",
+    "company": "Salad",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://salad.com/"
+  },
+  {
+    "image": "salesforce-logo.png",
+    "company": "Salesforce",
+    "category": "Information Technology",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://www.salesforce.com/"
+  },
+  {
+    "image": "samsung-logo.png",
+    "company": "Samsung",
+    "category": "Information Technology",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://www.samsung.com/"
+  },
+  {
+    "image": "Screenshot-2025-10-17-at-4.56.40-PM.png",
+    "company": "Walmart",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.walmart.com/"
+  },
+  {
+    "image": "Screenshot-2025-11-04-at-1.03.47-PM-150x150.png",
+    "company": "Costco",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.costco.com/"
+  },
+  {
+    "image": "Screenshot-2026-01-07-at-4.40.00-PM-e1767822061373-150x150.png",
+    "company": "Ramp",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://ramp.com/"
+  },
+  {
+    "image": "Screenshot-2026-02-18-at-8.56.56-AM-e1771423069796-150x150.png",
+    "company": "Ticketmaster",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.ticketmaster.com/"
+  },
+  {
+    "image": "scrooge.games_-e1697566828183.png",
+    "company": "Scrooge Games",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://scrooge.games/"
+  },
+  {
+    "image": "shakepay.png",
+    "company": "Shakepay",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://shakepay.com/"
+  },
+  {
+    "image": "shop-pay.png",
+    "company": "Shop Pay",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://shop.app/"
+  },
+  {
+    "image": "shopify.png",
+    "company": "Shopify",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.shopify.com/"
+  },
+  {
+    "image": "simply.png",
+    "company": "Simply.com",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.simply.com/"
+  },
+  {
+    "image": "siriusxm.png",
+    "company": "SiriusXM",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.siriusxm.com/"
+  },
+  {
+    "image": "sktelecom-150x150.png",
+    "company": "SK Telecom",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.sktelecom.com/"
+  },
+  {
+    "image": "snapchat.png",
+    "company": "Snapchat",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.snapchat.com/"
+  },
+  {
+    "image": "so-net.png",
+    "company": "So-net",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.so-net.ne.jp/"
+  },
+  {
+    "image": "sony.com_.png",
+    "company": "Sony",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.sony.com/"
+  },
+  {
+    "image": "spaceship.png",
+    "company": "Spaceship",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.spaceship.com/"
+  },
+  {
+    "image": "squareup.png",
+    "company": "Square",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://squareup.com/"
+  },
+  {
+    "image": "stall-frei.png",
+    "company": "Stall-Frei.de",
+    "category": "Travel & Leisure",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://stall-frei.de/"
+  },
+  {
+    "image": "station-drivers.jpg",
+    "company": "Station-Drivers",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.station-drivers.com/"
+  },
+  {
+    "image": "stripe-logo.png",
+    "company": "Stripe",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://stripe.com/"
+  },
+  {
+    "image": "stuudium.png",
+    "company": "Stuudium",
+    "category": "Education",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://ope.ee/"
+  },
+  {
+    "image": "sumup.png",
+    "company": "SumUp",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://sumup.com/"
+  },
+  {
+    "image": "swica.png",
+    "company": "Swica",
+    "category": "Health & Wellness",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.swica.ch/"
+  },
+  {
+    "image": "switch-id-edu.png",
+    "company": "Switch edu-ID",
+    "category": "Education",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://eduid.ch/"
+  },
+  {
+    "image": "syncfusion.png",
+    "company": "Syncfusion",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.syncfusion.com/"
+  },
+  {
+    "image": "Synology.png",
+    "company": "Synology",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.synology.com/"
+  },
+  {
+    "image": "Tailscale.png",
+    "company": "Tailscale",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://tailscale.com/"
+  },
+  {
+    "image": "target-150x150.png",
+    "company": "Target",
+    "category": "E-Commerce",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.target.com/"
+  },
+  {
+    "image": "techbookfest.png",
+    "company": "Techbookfest",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://techbookfest.org/"
+  },
+  {
+    "image": "telegram.png",
+    "company": "Telegram",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://telegram.org/"
+  },
+  {
+    "image": "telekom.png",
+    "company": "Deutsche Telekom",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.telekom.de/"
+  },
+  {
+    "image": "telstra.png",
+    "company": "Telstra",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.telstra.com.au/"
+  },
+  {
+    "image": "tender.png",
+    "company": "Tender",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://tender.run/"
+  },
+  {
+    "image": "the-hendrix-jc.png",
+    "company": "The Hendrix",
+    "category": "Real Estate",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://thehendrixjc.com/"
+  },
+  {
+    "image": "thunder2.png",
+    "company": "Thunder",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://thunder.gg/"
+  },
+  {
+    "image": "tiaa-150x150.png",
+    "company": "TIAA",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.tiaa.org/"
+  },
+  {
+    "image": "ticketeer.png",
+    "company": "Ticketeer",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.ticketeer.se/"
+  },
+  {
+    "image": "TikTok.png",
+    "company": "TikTok",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.tiktok.com/"
+  },
+  {
+    "image": "tokyu.png",
+    "company": "TOKYU",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.tokyu.co.jp/"
+  },
+  {
+    "image": "tripletex.png",
+    "company": "Tripletex",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://tripletex.no/"
+  },
+  {
+    "image": "trusona-fintechfreedom-150x150.jpg",
+    "company": "Trusona Authentication Cloud",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.trusona.com/"
+  },
+  {
+    "image": "Trustworthy.png",
+    "company": "Trustworthy",
+    "category": "Health & Wellness",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.trustworthy.com/"
+  },
+  {
+    "image": "turnkey.png",
+    "company": "Turnkey",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://turnkey.com/"
+  },
+  {
+    "image": "tuta-logo.png",
+    "company": "Tuta",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://tuta.com/"
+  },
+  {
+    "image": "uber.com_.png",
+    "company": "Uber",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.uber.com/"
+  },
+  {
+    "image": "uninbox.jpg",
+    "company": "Uninbox",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://uninbox.com/"
+  },
+  {
+    "image": "usesarchbtw.lol_.png",
+    "company": "usesarchbtw.lol",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://usesarchbtw.lol/"
+  },
+  {
+    "image": "vault-vision.png",
+    "company": "Vault Vision",
+    "category": "Authentication Provider",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://vaultvision.com/"
+  },
+  {
+    "image": "vercel.png",
+    "company": "Vercel",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://vercel.com/"
+  },
+  {
+    "image": "virgin-media.png",
+    "company": "Virgin Media",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.virginmedia.com/"
+  },
+  {
+    "image": "Visma.png",
+    "company": "Visma",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.visma.com/"
+  },
+  {
+    "image": "vk.png",
+    "company": "VK",
+    "category": "Social Media",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://vk.com/"
+  },
+  {
+    "image": "wealth.png",
+    "company": "Wealthsimple",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.wealthsimple.com/"
+  },
+  {
+    "image": "webauthen.png",
+    "company": "WebAuthn.io",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://webauthn.io/"
+  },
+  {
+    "image": "Wells-Fargo.png",
+    "company": "Wells Fargo",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.wellsfargo.com/"
+  },
+  {
+    "image": "whatsapp.com_.png",
+    "company": "WhatsApp (iOS and Android)",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.whatsapp.com/"
+  },
+  {
+    "image": "wiki.png",
+    "company": "Wikipedia",
+    "category": "Other",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://www.wikipedia.org/"
+  },
+  {
+    "image": "Wise.png",
+    "company": "Wise",
+    "category": "Finance",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://wise.com/"
+  },
+  {
+    "image": "www.docusign.com_-150x150.png",
+    "company": "DocuSign",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.docusign.com/"
+  },
+  {
+    "image": "x-logo.jpg",
+    "company": "X / Twitter",
+    "category": "Social Media",
+    "supported": [
+      "MFA"
+    ],
+    "frontpage_url": "https://x.com/"
+  },
+  {
+    "image": "xenforo.png",
+    "company": "xenForo",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://xenforo.com/"
+  },
+  {
+    "image": "yahoo.com_-150x150.png",
+    "company": "Yahoo!",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.yahoo.com/"
+  },
+  {
+    "image": "yandex.png",
+    "company": "Yandex",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://yandex.com/"
+  },
+  {
+    "image": "zitadel.png",
+    "company": "Zitadel",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method"
+    ],
+    "frontpage_url": "https://zitadel.com/"
+  },
+  {
+    "image": "zoho.com_.png",
+    "company": "Zoho",
+    "category": "Information Technology",
+    "supported": [
+      "Sign-In Method",
+      "MFA"
+    ],
+    "frontpage_url": "https://www.zoho.com/"
+  }
+]

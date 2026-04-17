@@ -1,0 +1,35 @@
+# git-lfs patterns are not case-insensitive.
+# Write case-insensitive matching patterns to prevent errors between Linux, Windows, and OSX users.
+
+# Documents
+*.[dD][oO][cC][xX] filter=lfs diff=lfs merge=lfs -text
+*.[pP][dD][fF] filter=lfs diff=lfs merge=lfs -text
+*.[pP][pP][tT][xX] filter=lfs diff=lfs merge=lfs -text
+*.[xX][lL][sS][xX] filter=lfs diff=lfs merge=lfs -text
+
+# Archives
+*.7[zZ] filter=lfs diff=lfs merge=lfs -text
+*.[bB][rR] filter=lfs diff=lfs merge=lfs -text
+*.[gG][zZ] filter=lfs diff=lfs merge=lfs -text
+*.[tT][aA][rR] filter=lfs diff=lfs merge=lfs -text
+*.[zZ][iI][pP] filter=lfs diff=lfs merge=lfs -text
+
+# Images
+*.[gG][iI][fF] filter=lfs diff=lfs merge=lfs -text
+*.[iI][cC][oO] filter=lfs diff=lfs merge=lfs -text
+*.[jJ][pP][gG] filter=lfs diff=lfs merge=lfs -text
+*.[jJ][pP][eE][gG] filter=lfs diff=lfs merge=lfs -text
+*.[pP][nN][gG] filter=lfs diff=lfs merge=lfs -text
+*.[pP][sS][dD] filter=lfs diff=lfs merge=lfs -text
+*.[wW][eE][bB][pP] filter=lfs diff=lfs merge=lfs -text
+
+# Binaries
+*.[aA][pP][kK] filter=lfs diff=lfs merge=lfs -text
+*.[gG][pP][gG] filter=lfs diff=lfs merge=lfs -text
+*.[iI][pP][aA] filter=lfs diff=lfs merge=lfs -text
+
+# Videos
+*.[mM][kK][vV] filter=lfs diff=lfs merge=lfs -text
+*.[mM][oO][vV] filter=lfs diff=lfs merge=lfs -text
+*.[wW][eE][bB][mM] filter=lfs diff=lfs merge=lfs -text
+

@@ -1,0 +1,142 @@
+[
+  {
+    "company": "Adobe",
+    "frontpage_url": null
+  },
+  {
+    "company": "Affirm",
+    "frontpage_url": "https://www.affirm.com/"
+  },
+  {
+    "company": "Amazon",
+    "frontpage_url": "https://www.amazon.com/"
+  },
+  {
+    "company": "Apple iCloud",
+    "frontpage_url": "https://www.icloud.com/"
+  },
+  {
+    "company": "Bestbuy",
+    "frontpage_url": "https://www.bestbuy.com/"
+  },
+  {
+    "company": "Bitwarden",
+    "frontpage_url": "https://bitwarden.com/"
+  },
+  {
+    "company": "Bolt",
+    "frontpage_url": "https://bolt.eu/de-de/"
+  },
+  {
+    "company": "Coinbase",
+    "frontpage_url": "https://www.coinbase.com/en-de/"
+  },
+  {
+    "company": "GitHub",
+    "frontpage_url": "https://github.com/"
+  },
+  {
+    "company": "Google",
+    "frontpage_url": "https://www.google.com/"
+  },
+  {
+    "company": "Gov.au",
+    "frontpage_url": "https://my.gov.au/"
+  },
+  {
+    "company": "Instacard",
+    "frontpage_url": "https://home.instacard.co/"
+  },
+  {
+    "company": "KAYAK",
+    "frontpage_url": "https://www.kayak.com/"
+  },
+  {
+    "company": "Linear",
+    "frontpage_url": "https://linear.app/homepage"
+  },
+  {
+    "company": "LinkedIn",
+    "frontpage_url": "https://linkedin.com/"
+  },
+  {
+    "company": "Microsoft",
+    "frontpage_url": "https://account.microsoft.com/account/Account?ru=https%3A%2F%2Faccount.microsoft.com%2F&amp;destrt=home.landing"
+  },
+  {
+    "company": "Notion",
+    "frontpage_url": "https://www.notion.com/"
+  },
+  {
+    "company": "Nvidia",
+    "frontpage_url": "https://www.nvidia.com/"
+  },
+  {
+    "company": "Papermark",
+    "frontpage_url": "https://www.papermark.io/"
+  },
+  {
+    "company": "Pixiv",
+    "frontpage_url": "https://www.pixiv.net/en/"
+  },
+  {
+    "company": "Porkbun",
+    "frontpage_url": "https://porkbun.com/"
+  },
+  {
+    "company": "Robinhood",
+    "frontpage_url": "https://robinhood.com/eu/en/about/crypto/"
+  },
+  {
+    "company": "Roblox",
+    "frontpage_url": "https://www.roblox.com/"
+  },
+  {
+    "company": "Shopify",
+    "frontpage_url": "https://www.shopify.com/de"
+  },
+  {
+    "company": "Spaceship",
+    "frontpage_url": "https://www.spaceship.com/"
+  },
+  {
+    "company": "Stripe Checkout",
+    "frontpage_url": "https://stripe.com/de"
+  },
+  {
+    "company": "Tailscale",
+    "frontpage_url": "https://tailscale.com/"
+  },
+  {
+    "company": "Target",
+    "frontpage_url": "https://www.target.com/"
+  },
+  {
+    "company": "Telekom",
+    "frontpage_url": "https://www.telekom.com/"
+  },
+  {
+    "company": "Ticketeer",
+    "frontpage_url": "https://www.ticketeer.se/"
+  },
+  {
+    "company": "Uninbox",
+    "frontpage_url": "https://uninbox.com/"
+  },
+  {
+    "company": "Vercel",
+    "frontpage_url": "https://vercel.com/"
+  },
+  {
+    "company": "Volt",
+    "frontpage_url": "https://www.volt.io/"
+  },
+  {
+    "company": "Walmart",
+    "frontpage_url": "https://www.walmart.com/"
+  },
+  {
+    "company": "WhatsApp",
+    "frontpage_url": "https://www.whatsapp.com/"
+  }
+]
