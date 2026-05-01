@@ -21,7 +21,7 @@ about certified FIDO authenticators. This directory captures two endpoints:
 The FIDO Alliance updates the MDS3 feed on a rolling basis as authenticators gain, renew,
 or lose certification. The c-MDS feed reflects the same corpus.
 
-Files are downloaded by `scripts/fetch-fido-mds.py`. Each run writes a new
+Files are downloaded by `src/python/fetch-fido-mds.py`. Each run writes a new
 `YYYYMMDD_`-prefixed file to `journal/` only when the content has changed since the
 previous download. Unchanged content is silently skipped, so the journal records only
 meaningful updates.
